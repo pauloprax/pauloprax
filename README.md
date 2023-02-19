@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI programming with Python**
 
-- 📝 I write articles on [https://medium.com/@paulo_51705](Medium)
+- 📝 I write articles on https://medium.com/@paulo_51705
 
 - 💬 Ask me about **php, python, mysql and mongodb**
 
