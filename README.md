@@ -19,9 +19,41 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paulo-ara%C3%BAjo-334845101/](https://www.linkedin.com/in/paulo-ara%C3%BAjo-334845101/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## My Projects 
+
+### SIM — Integrated ERP focused on Industry Federations
+
+SIM-ERP is a comprehensive management solution that streamlines the daily operations of industry federations by handling tasks such as budget management and supplier relationships. Developed through a software incubator process, the system has been adopted by important national organizations in various states of Brazil and has been continuously evolving for over 15 years. With more than ten integrated modules, SIM-ERP has significantly improved corporate area integration by over 90%, increased efficiency for audit reporting by 80%, and eliminated expenses incurred without tax validation, resulting in streamlined daily management and improved customer and supplier interactions.
+
+Built using a combination of PHP, Python, MongoDB, Flask, and MySQL, this ERP solution currently manages over $40 million in yearly revenue, and it is integrated with Dynamics ERP. This integration has resulted in a buying speed increase of over 200% and eliminated issues caused by lack of budget control. This project was developed by me while I was in university and was accepted by a software incubator.
+
+### RentalApp — Rental Application
+
+This software was custom-created for companies in Orlando/Florida. It solved the problem of managing vehicle rental processes and reducing overbooking and sales problems to zero in an integrated way with the company's website. Allowing the improvement of management processes, integrating 100% of the steps, improving more than 50% in management efficiency, and improving profit by more than 20%.
+
+Technology: PHP (Phalcon Framework), MariaDB, MongoDB.
+
+### IsoGestor — Quality Management Software
+
+I developed a software solution that effectively addressed the challenges of distributing procedure documents, managing records, implementing BSC planning, and implementing risk management processes in compliance with the ISO 9001 standard. Utilizing PHP and MongoDB, I designed and configured the servers for production use by companies for over 9 years, allowing them to trust in the management of their documents and quality management system through the app. The implementation of this software resulted in a significant reduction in non-conformities in document distribution, an increase in effectiveness of document distribution by 90%, and a significant decrease in paper usage by over 95%. The software is currently being used by one of the largest supply distribution networks in Latin America.
+
+Technologies used: PHP (Zend Framework), MongoDB, Bootstrap.
+
+### Adtec - Digital Marketing Management
+
+I developed a software solution that enabled the company to achieve a fully integrated view of all digital marketing operations through integration with various APIs, including Facebook Marketing, Google Ads, and Google Adsense, by applying business intelligence concepts. As a result, it was possible to generate valuable insights such as profit per domain/URL and automate adjustments in marketing campaigns on Facebook and Google Ads. This innovative solution played a critical role in the success of a new digital marketing company in Brazil, as it allowed for 100% integration of all necessary information sources and led to an increase in profit of over 20%.
+
+Technologies used: PHP (Laravel), Python(Fask), MariaDB, Bootstrap.
+
+### Viva App
+
+This software solved the problem of managing the entire customer relationship process of a prominent local tourism company: photoshoot management, a cloud application for attachments, product management, production control, and financial management. The software allowed a company focused on tourism expansion to other countries by computerizing 100% of its process in a customized solution.
+
+Technology: PHP (Laravel), MariaDB, Bootstrap. 
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
