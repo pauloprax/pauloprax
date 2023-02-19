@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paulo-ara%C3%BAjo-334845101/](https://www.linkedin.com/in/paulo-ara%C3%BAjo-334845101/)
 
-## My Projects 
+## Some of My Projects 
 
 ### SIM — Integrated ERP focused on Industry Federations
 
