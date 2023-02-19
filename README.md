@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paulo-araújo-334845101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-araújo-334845101" height="30" width="40" /></a>
 <a href="https://instagram.com/pauloprax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauloprax" height="30" width="40" /></a>
-<a href="https://medium.com/@paulo.prax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paulo.prax" height="30" width="40" /></a>
+<a href="https://medium.com/@paulo_51705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paulo.prax" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/paulo_prax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paulo_prax" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user8157w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8157w" height="30" width="40" /></a>
 </p>
