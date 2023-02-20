@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloprax" alt="pauloprax" /></a> </p>
 
-- 🔭 I’m currently working on **AI Python Projects**
+- 🔭 I’m currently working on **AI Python Projects, FastAPI and PHP laravel projects**
 
 - 🌱 I’m currently learning **AI programming with Python**
 
