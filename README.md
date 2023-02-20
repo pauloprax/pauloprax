@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">Hello, I'm Paulo, I'm a Full Stack developer, but you can consider that I'm a problem solver.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloprax" alt="pauloprax" /></a> </p>
 
 - 🔭 I’m currently working on **AI Python Projects, FastAPI and PHP laravel projects**
 
